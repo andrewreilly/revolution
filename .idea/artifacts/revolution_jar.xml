@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="revolution:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/revolution_jar</output-path>
+    <root id="archive" name="revolution.jar">
+      <element id="module-output" name="revolution" />
+    </root>
+  </artifact>
+</component>
